@@ -2,6 +2,6 @@
 
 I am a Software Developer
 
-- Currently learning 🙂...
+- learning 🙂...
 - Todo: Make my portfolio website
 - 😄 Pronouns: He/Him
