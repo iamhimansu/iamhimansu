@@ -1,7 +1,10 @@
 ### Hello! 👋
 
-I am a Software Developer
-
-- learning 🙂...
-- Todo: Make my portfolio website ✅
-- 😄 Pronouns: He/Him
+I am a Software Developer, with hands on 
+-- PHP
+-- MYSQL
+-- HTML
+-- CSS
+-- TAILWIND
+-- BOOTSTRAP
+-- VUE.JS
