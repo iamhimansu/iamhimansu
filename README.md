@@ -6,4 +6,4 @@ I thrive in collaborative environments and enjoy solving challenging technical p
 
 Check out my profile <a href="https://iamhimansu.github.io/personal" target="_blank">here</a>
 
-Check out my resume <a href="https://raw.githubusercontent.com/iamhimansu/iamhimansu/main/himanshu_resume_main-aug.pdf" target="_blank">here</a>
+Check out my resume <a href="https://raw.githubusercontent.com/iamhimansu/iamhimansu/main/himanshu_resume_main.pdf" target="_blank">here</a>
