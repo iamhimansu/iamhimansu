@@ -4,6 +4,6 @@ I am a dedicated professional with expertise in software development, particular
 
 I thrive in collaborative environments and enjoy solving challenging technical problems. Let’s connect to explore opportunities in software development, and collaborate on projects that drive innovation and impact. Feel free to reach out!
 
-Check out my profile <a href="https://iamhimansu.github.io/personal" target="_blank">here</a>
+Check out my profile <a href="https://himanshurajaman.com" target="_blank">here</a>
 
 Check out my resume <a href="https://raw.githubusercontent.com/iamhimansu/iamhimansu/main/himanshu_resume_main.pdf" target="_blank">here</a>
